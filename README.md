@@ -22,9 +22,9 @@ and guiding associated decision-making.
 Algorithm
 1. Collection of the dataset from Kaggle
 2. Preprocessing
-2.1 Removal of noise
-2.2 Removal of Stop words
-2.3 Tokenization
+    Removal of noise
+    Removal of Stop words
+    Tokenization
 3. Extract Covid-19 related topics and analyse people's sentiment
-3.1 Use LDA semantic mining for topic recommendation
-3.2 Use deep learning LSTM-RNN method for comment classification
+    Use LDA semantic mining for topic recommendation
+    Use deep learning LSTM-RNN method for comment classification
