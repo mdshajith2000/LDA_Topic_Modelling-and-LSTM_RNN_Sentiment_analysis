@@ -25,14 +25,14 @@ Algorithm:
 
 2. Preprocessing
 
-a. Removal of noise
+      a. Removal of noise
   
-b. Removal of Stop words
+      b. Removal of Stop words
 
-c. Tokenization
+      c. Tokenization
 
 3. Extract Covid-19 related topics and analyse people's sentiment
     
-a. Use LDA semantic mining for topic recommendation
+      a. Use LDA semantic mining for topic recommendation
 
-b. Use deep learning LSTM-RNN method for comment classification
+      b. Use deep learning LSTM-RNN method for comment classification
