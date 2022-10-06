@@ -19,12 +19,20 @@ classify COVID-19 comments by sentiment. Our findings highlight the necessity of
 public opinion and appropriate computational approaches into understanding COVID-19 concerns
 and guiding associated decision-making.
 
-Algorithm
+Algorithm:
+
 1. Collection of the dataset from Kaggle
+
 2. Preprocessing
-    Removal of noise
-    Removal of Stop words
-    Tokenization
+
+a. Removal of noise
+  
+b. Removal of Stop words
+
+c. Tokenization
+
 3. Extract Covid-19 related topics and analyse people's sentiment
-    Use LDA semantic mining for topic recommendation
-    Use deep learning LSTM-RNN method for comment classification
+    
+a. Use LDA semantic mining for topic recommendation
+
+b. Use deep learning LSTM-RNN method for comment classification
